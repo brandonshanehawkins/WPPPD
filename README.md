@@ -1,2 +1,0 @@
-# WPPPD
-Temp solution
